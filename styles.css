@@ -1,0 +1,93 @@
+#left {
+    width: 30%;
+    height: 220%;
+    float: left;
+    background-color: rgb(66, 155, 206);
+}
+
+#right {
+    width: 70%;
+    height: 220%;
+    float: right;
+    background-color: rgb(250, 244, 247);
+}
+
+img {
+    width: 100%;
+    height: 30%;
+}
+
+body {
+    font: 18px Arial, sans-serif;
+    background-color: rgb(224, 231, 222);
+    margin: 1% 1% 1% 1%;
+}
+
+#top {
+    /* Assuming you want to style this later */
+}
+
+h4 {
+    text-align: center;
+}
+
+.contact-info {
+    margin-top: 20px;
+    padding: 20px;
+}
+
+.contact-info h3 {
+    font-size: 24px;
+    color: rgb(66, 155, 206);
+}
+
+.contact-info ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+.contact-info label {
+    font-weight: bold;
+}
+
+.Objective,
+.Academic,
+.Skills,
+.Achievements,
+.Personal {
+    padding: 20px;
+}
+
+.Objective h3,
+.Academic h3,
+.Skills h3,
+.Achievements h3,
+.Personal h3 {
+    font-size: 24px;
+    color: rgb(66, 155, 206);
+}
+
+.Academic table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.Academic th,
+.Academic td {
+    border: 1px solid black;
+    padding: 8px;
+    text-align: center;
+}
+
+.Skills ul {
+    padding-left: 0;
+}
+
+.Achievements ol {
+    padding-left: 20px;
+}
+.Personal label {
+    font-weight: bold;
+}
+
+/* Add more specific styling as needed */
